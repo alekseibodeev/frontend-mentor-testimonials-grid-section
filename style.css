@@ -61,6 +61,12 @@ body {
   margin-inline: auto;
 }
 
+.container_content_center {
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+}
+
 .testimonials {
   padding: 4rem 1.5rem;
   display: grid;
